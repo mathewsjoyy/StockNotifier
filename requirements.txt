@@ -1,0 +1,5 @@
+selenium==3.141.0
+webdriver-manager==3.4.2
+slack==0.0.2
+python-dotenv==0.17.1
+slack-client==0.3.0
