@@ -12,4 +12,4 @@ This is a python script in order to see if an item you want is back in stock. Th
 
 ## Additional info
 
-If you run into any errors with the code double check you have selected the correct css_selector (Inspect element the page > find the tag with the stock text > right click > copy > copy selector) in the website you're using, and also that you are using latest version of python and the necessary packages. If you still run into errors feel free to contact me, and I can sort it out for you!
+If you run into any errors with the code double check you have selected the correct css_selector <code>(Inspect element the page > find the tag with the stock text > right click > copy > copy selector)</code> in the website you're using, you have chrome installed and also that you are using latest version of python and the necessary packages. If you still run into errors feel free to contact me, and I can sort it out for you!
